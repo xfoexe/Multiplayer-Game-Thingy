@@ -1,4 +1,4 @@
-VIVARIUM III 6.19 MULTIPLAYER
+VIVARIUM III 6.20 MULTIPLAYER
 ==============================
 
 This version adds:
@@ -15,7 +15,7 @@ This version adds:
 
 FILES
 -----
-Vivarium_6.19_multiplayer.html
+Vivarium_6.20_multiplayer.html
 server.js
 package.json
 
