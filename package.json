@@ -1,0 +1,8 @@
+{
+  "name": "vivarium-multiplayer-test",
+  "private": true,
+  "version": "0.1.0",
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
